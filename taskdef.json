@@ -1,0 +1,2 @@
+"image": "nginx"
+"taskDefinitionArn": "arn:aws:ecs:us-east-2:777249335069:task-definition/cd_td:1"
